@@ -10,7 +10,7 @@ This project gets you your own **[Parse Dashboard](https://github.com/parse-comm
 
 You will need to enable Cross-Origin Resource Sharing (CORS) for your new dashboard URL on each of your Parse Server instances. Otherwise, the dashboard will not be able to connect to them.
 
-### Configuration
+### Configuration odedupdated 24.8
 
 To prevent you from accidentally leaking your `masterKey` or login credentials, no dashboard configuration is stored in this repository. All of the config is saved in a single environment variable in Heroku called `PARSE_DASHBOARD_CONFIG`. (If you want to keep a versioned copy of your config elsewhere use a private GIST or similar.)
 

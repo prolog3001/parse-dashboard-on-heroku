@@ -6,7 +6,7 @@ This project gets you your own **[Parse Dashboard](https://github.com/parse-comm
 
 ![Parse Dashboard](images/dash-on-heroku.png)
 
-### CORS
+### CORS test
 
 You will need to enable Cross-Origin Resource Sharing (CORS) for your new dashboard URL on each of your Parse Server instances. Otherwise, the dashboard will not be able to connect to them.
 

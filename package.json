@@ -4,6 +4,9 @@
   "repository": "github:darrenkidd/parse-dashboard-on-heroku",
   "author": "Darren Kidd <dev@kidd.life>",
   "license": "MIT",
+  "engines": {
+  "node": "14.x"
+  },
   "scripts": {
     "start": "parse-dashboard --trustProxy=1"
   },

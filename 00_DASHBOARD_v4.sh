@@ -20,7 +20,7 @@ git remote -v
 git push https://git.heroku.com/dreamdiner-dashboard-new.git master
 
 # Option 2: update server automatically by GIT push
-cd "/Volumes/PrologMacExternal/GitProjects/General/DashBoard_GitDeskTop/parse-dashboard-on-heroku"
+# cd "/Volumes/PrologMacExternal/GitProjects/General/DashBoard_GitDeskTop/parse-dashboard-on-heroku"
 # git add -A .
 # git commit -m 'Updated DASHBOARD by CLI'
 # git push origin master

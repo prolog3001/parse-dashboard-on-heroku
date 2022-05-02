@@ -14,7 +14,7 @@ git push origin master
 # Option 1: update dashboard manually by GIT deploy
 cd "/Volumes/PrologMacExternal/GitProjects/General/DashBoard_GitDeskTop/parse-dashboard-on-heroku"
 heroku login
-heroku update
+# heroku update
 heroku git:remote -a dreamdiner-dashboard-new
 git remote -v
 git push https://git.heroku.com/dreamdiner-dashboard-new.git master

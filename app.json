@@ -7,7 +7,7 @@
   "env": {
     "PARSE_DASHBOARD_CONFIG": {
       "description": "",
-      "value": "{\"apps\":[{\"appName\":\"My Parse App\",\"serverURL\":\"https://my-parse-app.com/api\",\"appId\":\"my-parse-app\",\"masterKey\":\"*****\",\"production\":true}],\"users\":[{\"user\":\"administrator\",\"pass\":\"*****\"}],\"useEncryptedPasswords\":true}",
+      "value": "{\"apps\":[{\"appName\":\"My Parse App\",\"serverURL\":\"https://my-parse-app.com/api\",\"appId\":\"my-parse-app\",\"masterKey\":\"*****\",\"readOnlyMasterKey\":\"*****\",\"production\":true}],\"users\":[{\"user\":\"administrator\",\"pass\":\"*****\"}],\"useEncryptedPasswords\":true}",
       "required": true
     }
   },

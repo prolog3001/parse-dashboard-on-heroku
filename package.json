@@ -5,12 +5,12 @@
   "author": "Darren Kidd <dev@kidd.life>",
   "license": "MIT",
   "engines": {
-  "node": "14.x"
+    "node": "22.x"
   },
   "scripts": {
     "start": "parse-dashboard --trustProxy=1"
   },
   "dependencies": {
-    "parse-dashboard": "^2.1.0"
+    "parse-dashboard": "^9.2.0"
   }
 }
